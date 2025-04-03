@@ -1,2 +1,6 @@
 
-chap1/__pycache__/
+__pycache__/
+
+easy_rl/chap1/__pycache__/
+
+easy_rl/data/
